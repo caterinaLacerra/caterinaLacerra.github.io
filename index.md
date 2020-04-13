@@ -20,5 +20,5 @@ My research, at the moment, is mainly focused in *word sense disambiguation* and
 Find out more on this work on our [website](https://sapienzanlp.github.io/csi/)!
 
 ### Curriculum Vitae
-Download my CV [here]().
+Download my CV [here](https://caterinaLacerra.github.io/caterinaLacerra/docs/curriculum_vitae.pdf).
 
