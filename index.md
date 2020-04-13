@@ -1,37 +1,21 @@
 ## Caterina Lacerra
 
-PhD student in Natural Language Processing at [SapienzaNLP](http://sapienzanlp.uniroma1.it/) group.
+PhD student in Natural Language Processing at [SapienzaNLP](http://sapienzanlp.uniroma1.it/) group. The research group, based in [Sapienza, University of Rome](https://www.uniroma1.it/en/pagina-strutturale/home), is led by [Roberto Navigli](http://wwwusers.di.uniroma1.it/~navigli/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I recievied an educational background mainly in the engineering field: my bachelor was in Automation Engineering, and the Master was in Artificial Intelligence and Robotics. 
 
-### Markdown
+My research, at the moment, is mainly focused in *word sense disambiguation* and *lexical substitution*.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
 
-```markdown
-Syntax highlighted code block
+- Caterina Lacerra, Michele Bevilacqua, Tommaso Pasini and Roberto Navigli. CSI: [A Coarse Sense Inventory for 85% Word Sense Disambiguation](https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```@inproceedings{lacerraetal:2020,
+  title={CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation},
+  author={Lacerra, Caterina and Bevilacqua, Michele and Pasini, Tommaso and Navigli, Roberto},
+  booktitle={Proceedings of the 34th Conference on Artificial Intelligence},
+  publisher={Association for the Advancement of Artificial Intelligence}
+  year={2020}
+}
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caterinaLacerra/caterinaLacerra.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Find out more on this work on our [website](https://sapienzanlp.github.io/csi/)!
