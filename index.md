@@ -20,6 +20,5 @@ My research, at the moment, is mainly focused in *word sense disambiguation* and
 Find out more on this work on our <a href="https://sapienzanlp.github.io/csi/" target="_blank">website</a>!
 
 ### Contacts
-Email: lacerra@di.uniroma1.it
-
+Email :envelope: lacerra@di.uniroma1.it
 Twitter: https://twitter.com/CaterinaLac
