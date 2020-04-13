@@ -15,7 +15,10 @@ My research, at the moment, is mainly focused in *word sense disambiguation* and
   author={Lacerra, Caterina and Bevilacqua, Michele and Pasini, Tommaso and Navigli, Roberto},
   booktitle={Proceedings of the 34th Conference on Artificial Intelligence},
   publisher={Association for the Advancement of Artificial Intelligence}
-  year={2020}
-}
+  year={2020}}
 ```
 Find out more on this work on our [website](https://sapienzanlp.github.io/csi/)!
+
+### Curriculum Vitae
+Download my CV [here]().
+
