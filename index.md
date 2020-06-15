@@ -7,7 +7,18 @@ My research, at the moment, is mainly focused in *word sense disambiguation* and
 ### Publications
 
 - Caterina Lacerra, Michele Bevilacqua, Tommaso Pasini and Roberto Navigli. <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" target="_blank">CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>.
-<a href="https://sapienzanlp.github.io/csi/" target="_blank">Website</a>
+
+```
+@inproceedings{lacerraetal:2020,
+  title={ {CSI}: A Coarse Sense Inventory for 85\% Word Sense Disambiguation},
+  author={Lacerra, Caterina and Bevilacqua, Michele and Pasini, Tommaso and Navigli, Roberto},
+  booktitle={Proceedings of the 34th Conference on Artificial Intelligence},
+  publisher={Association for the Advancement of Artificial Intelligence},
+  year={2020}
+}
+```
+
+Find out more on this work on its <a href="https://sapienzanlp.github.io/csi/" target="_blank">website</a>!
 
 ### Contacts
 Email: lacerra@di.uniroma1.it
