@@ -9,7 +9,7 @@ I recievied an educational background mainly in the engineering field: my bachel
 ```
 to appear @ IJCAI 2021
 ```
-Find out more on the <a href="https://caterinalacerra.github.io/alasca/" target="_blank">ALaSca</a> website!
+Find out more on the <a href="https://sapienzanlp.github.io/alasca/" target="_blank">ALaSca</a> website!
 
 <a href="https://github.com/caterinaLacerra/caterinaLacerra.github.io/blob/master/docs/ALaSca%20-%20poster%20(1).pdf" target="_blank">:clipboard: Poster</a>
 
