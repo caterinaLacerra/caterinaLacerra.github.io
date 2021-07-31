@@ -10,7 +10,8 @@ I recievied an educational background mainly in the engineering field: my bachel
 to appear @ IJCAI 2021
 ```
 Find out more on the <a href="https://caterinalacerra.github.io/alasca/" target="_blank">ALaSca</a> website!
-<a href="https://github.com/caterinaLacerra/caterinaLacerra.github.io/blob/master/docs/ALaSca%20-%20poster%20(1).pdf target="_blank">Poster</a>
+
+<a href="https://github.com/caterinaLacerra/caterinaLacerra.github.io/blob/master/docs/ALaSca%20-%20poster%20(1).pdf" target="_blank">:clipboard: Poster</a>
 
 
 - Edoardo Barba, Luigi Procopio, Caterina Lacerra, Tommaso Pasini and Roberto Navigli. <a href="https://www.diag.uniroma1.it/navigli/pubs/IJCAI_2021_Barbaetal.pdf" target="_blank">Exemplification Modeling: Can You Give Me an Example, Please?</a>.
