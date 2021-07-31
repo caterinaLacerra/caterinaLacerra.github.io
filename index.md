@@ -1,16 +1,19 @@
-PhD student in Natural Language Processing at <a href="http://sapienzanlp.uniroma1.it/" target="_blank">SapienzaNLP</a> group. The research group, based in <a href="https://www.uniroma1.it/en/pagina-strutturale/home" target="_blank">Sapienza, University of Rome</a>, is led by <a href="http://wwwusers.di.uniroma1.it/~navigli/" target="_blank">Roberto Navigli</a>.
+PhD student in Natural Language Processing at <a href="http://sapienzanlp.uniroma1.it/" target="_blank">SapienzaNLP</a> group. The research group, based in <a href="https://www.uniroma1.it/en/pagina-strutturale/home" target="_blank">Sapienza, University of Rome</a>, is led by <a href="https://www.diag.uniroma1.it/navigli/" target="_blank">Roberto Navigli</a>.
 
 I recievied an educational background mainly in the engineering field: my bachelor was in Automation Engineering, and the Master was in Artificial Intelligence and Robotics. My research is mainly focused in lexical semantics, in particular *word sense disambiguation* and *lexical substitution*.
 
 ### Publications
 
-- Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli. <a href="" target="_blank">ALaSca: an Automated approach for Large-Scale Lexical Substitution</a>.
+- Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli. <a href="https://www.diag.uniroma1.it/navigli/pubs/IJCAI_2021_Lacerraetal.pdf" target="_blank">ALaSca: an Automated approach for Large-Scale Lexical Substitution</a>.
 
 ```
 to appear @ IJCAI 2021
 ```
+Website: <a href="https://caterinalacerra.github.io/alasca/" target="_blank">ALaSca</a>
 
-- Edoardo Barba, Luigi Procopio, Caterina Lacerra, Tommaso Pasini and Roberto Navigli. <a href="" target="_blank">Exemplification Modeling: Can You Give Me an Example, Please?</a>.
+
+
+- Edoardo Barba, Luigi Procopio, Caterina Lacerra, Tommaso Pasini and Roberto Navigli. <a href="https://www.diag.uniroma1.it/navigli/pubs/IJCAI_2021_Barbaetal.pdf" target="_blank">Exemplification Modeling: Can You Give Me an Example, Please?</a>.
 
 
 ```
