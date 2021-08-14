@@ -16,7 +16,7 @@ Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.</br><a href
 
 ```
 @inproceedings{lacerraetal:2021,
-  title={{AL}a{S}ca: an {A}utomated approach for {L}arge-{S}cale {L}exical {S}ubstitution},
+  title={ {AL}a{S}ca: an {A}utomated approach for {L}arge-{S}cale {L}exical {S}ubstitution},
   author={Lacerra, Caterina and Pasini, Tommaso and Tripodi, Rocco and Navigli, Roberto},
   booktitle={Proceedings of the 30th International Joint Conference on Artificial Intelligence},
   publisher={International Joint Conferences on Artificial Intelligence},
@@ -31,7 +31,7 @@ Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.</br><a href
 
 ```
 @inproceedings{barbaetal:2021
-  title={{E}xemplification {M}odeling: {C}an {Y}ou {G}ive {M}e an {E}xample, {P}lease?},
+  title={ {E}xemplification {M}odeling: {C}an {Y}ou {G}ive {M}e an {E}xample, {P}lease?},
   author={Barba, Edoardo and Procopio, Luigi and Lacerra, Caterina and Pasini, Tommaso and Navigli, Roberto},
   booktitle={Proceedings of the 30th International Joint Conference on Artificial Intelligence},
   publisher={International Joint Conferences on Artificial Intelligence},
