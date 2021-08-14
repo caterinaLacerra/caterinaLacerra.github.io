@@ -11,17 +11,26 @@ I recievied an educational background mainly in the engineering field: my bachel
 
 <a href="https://sapienzanlp.github.io/alasca/" target="_blank">Website</a>
 
+```@inproceedings{lacerraetal2021:
+  title={{AL}a{S}ca: an {A}utomated approach for {L}arge-{S}cale {L}exical {S}ubstitution},
+  author={Lacerra, Caterina and Pasini, Tommaso and Tripodi, Rocco and Navigli, Roberto},
+  booktitle={Proceedings of the 30th International Joint Conference on Artificial Intelligence},
+  publisher={International Joint Conferences on Artificial Intelligence},
+  year={2021}
+}
 ```
-to appear @ IJCAI 2021
-```
-
 
 
 - Edoardo Barba, Luigi Procopio, Caterina Lacerra, Tommaso Pasini and Roberto Navigli. <a href="https://www.diag.uniroma1.it/navigli/pubs/IJCAI_2021_Barbaetal.pdf" target="_blank">Exemplification Modeling: Can You Give Me an Example, Please?</a>.
 
 
-```
-to appear @ IJCAI 2021
+```@inproceedings{barbaetal2021:
+  title={Exemplification Modeling: Can You Give Me an Example, Please?},
+  author={Barba, Edoardo and Procopio, Luigi and Lacerra, Caterina and Pasini, Tommaso and Navigli, Roberto},
+  booktitle={Proceedings of the 30th International Joint Conference on Artificial Intelligence},
+  publisher={International Joint Conferences on Artificial Intelligence},
+  year={2021}
+}
 ```
 
 - Caterina Lacerra, Michele Bevilacqua, Tommaso Pasini and Roberto Navigli. <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" target="_blank">CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>.
