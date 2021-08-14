@@ -31,7 +31,7 @@ Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.</br><a href
 
 ```
 @inproceedings{barbaetal:2021
-  title={Exemplification Modeling: Can You Give Me an Example, Please?},
+  title={{E}xemplification {M}odeling: {C}an {Y}ou {G}ive {M}e an {E}xample, {P}lease?},
   author={Barba, Edoardo and Procopio, Luigi and Lacerra, Caterina and Pasini, Tommaso and Navigli, Roberto},
   booktitle={Proceedings of the 30th International Joint Conference on Artificial Intelligence},
   publisher={International Joint Conferences on Artificial Intelligence},
