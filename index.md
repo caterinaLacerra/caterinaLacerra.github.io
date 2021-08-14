@@ -15,13 +15,14 @@ Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.</br><a href
 
 
 ```
-@inproceedings{lacerraetal:2021
-  title={{AL}a{S}ca: an Automated approach for Large-Scale Lexical Substitution},
+@inproceedings{lacerraetal:2021,
+  title={{AL}a{S}ca: an {A}utomated approach for {L}arge-{S}cale {L}exical {S}ubstitution},
   author={Lacerra, Caterina and Pasini, Tommaso and Tripodi, Rocco and Navigli, Roberto},
   booktitle={Proceedings of the 30th International Joint Conference on Artificial Intelligence},
   publisher={International Joint Conferences on Artificial Intelligence},
   year={2021}
 }
+
 ```
 
 
