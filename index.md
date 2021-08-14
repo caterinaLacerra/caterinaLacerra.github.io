@@ -15,7 +15,7 @@ Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.</br><a href
 
 
 ```
-@inproceedings{lacerraetal2021:
+@inproceedings{lacerraetal:2021
   title={{AL}a{S}ca: an Automated approach for Large-Scale Lexical Substitution},
   author={Lacerra, Caterina and Pasini, Tommaso and Tripodi, Rocco and Navigli, Roberto},
   booktitle={Proceedings of the 30th International Joint Conference on Artificial Intelligence},
@@ -29,7 +29,7 @@ Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.</br><a href
 
 
 ```
-@inproceedings{barbaetal2021:
+@inproceedings{barbaetal:2021
   title={Exemplification Modeling: Can You Give Me an Example, Please?},
   author={Barba, Edoardo and Procopio, Luigi and Lacerra, Caterina and Pasini, Tommaso and Navigli, Roberto},
   booktitle={Proceedings of the 30th International Joint Conference on Artificial Intelligence},
