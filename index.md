@@ -4,6 +4,23 @@ I recievied an educational background mainly in the engineering field: my bachel
 
 ### Publications
 
+Caterina Lacerra, Rocco Tripodi and Roberto Navigli.
+<a href="https://aclanthology.org/2021.emnlp-main.844.pdf" target="_blank">GeneSis: a Generative Approach for Substitutes in Context</a>.
+
+```
+@inproceedings{lacerraetal:2021,
+  title={ Gene{S}is: {A} {G}enerative {A}pproach to {S}ubstitutes in {C}ontext},
+  author={Lacerra, Caterina and Tripodi, Rocco and Navigli, Roberto},
+  booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  publisher={Association for Computational Linguistics},
+  year={2021},
+  address={Punta Cana, Domenican Republic}
+ }
+ ```
+<a href="https://github.com/caterinaLacerra/caterinaLacerra.github.io/raw/master/docs/genesis_poster.pdf" target="_blank">Poster</a>
+<a href="https://github.com/SapienzaNLP/genesis" target="_blank">Code</a>
+
+
 Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.  
 <a href="https://www.diag.uniroma1.it/navigli/pubs/IJCAI_2021_Lacerraetal.pdf" target="_blank">ALaSca: an Automated approach for Large-Scale Lexical Substitution</a>.
   
