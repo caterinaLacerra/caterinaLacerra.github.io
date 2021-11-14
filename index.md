@@ -61,8 +61,8 @@ I received an educational background mainly in the engineering field: my bachelo
   year={2020}
 }
 ```
-
-Find out more on this work on its <a href="https://sapienzanlp.github.io/csi/" target="_blank">website</a>!
+<a href="https://sapienzanlp.github.io/csi/" target="_blank">Website</a>
+<a href="https://github.com/SapienzaNLP/csi_code" target="_blank">Code</a>
 
 ### Contacts
 Email: lacerra@di.uniroma1.it
