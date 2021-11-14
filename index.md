@@ -13,7 +13,7 @@ I received an educational background mainly in the engineering field: my bachelo
   booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
   publisher={Association for Computational Linguistics},
   year={2021},
-  address={Punta Cana, Domenican Republic}
+  address={Punta Cana, Dominican Republic}
  }
  ```
 <a href="https://github.com/caterinaLacerra/caterinaLacerra.github.io/raw/master/docs/genesis_poster.pdf" target="_blank">Poster</a>
