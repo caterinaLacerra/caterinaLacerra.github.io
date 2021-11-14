@@ -4,8 +4,7 @@ I received an educational background mainly in the engineering field: my bachelo
 
 ### Publications
 
-**Caterina Lacerra**, Rocco Tripodi and Roberto Navigli.
-<a href="https://aclanthology.org/2021.emnlp-main.844.pdf" target="_blank">GeneSis: a Generative Approach for Substitutes in Context</a>.
+- **Caterina Lacerra**, Rocco Tripodi and Roberto Navigli. <a href="https://aclanthology.org/2021.emnlp-main.844.pdf" target="_blank">GeneSis: a Generative Approach for Substitutes in Context</a>.
 
 ```
 @inproceedings{lacerraetal:2021,
@@ -21,8 +20,7 @@ I received an educational background mainly in the engineering field: my bachelo
 <a href="https://github.com/SapienzaNLP/genesis" target="_blank">Code</a>
 
 
-**Caterina Lacerra**, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.  
-<a href="https://www.diag.uniroma1.it/navigli/pubs/IJCAI_2021_Lacerraetal.pdf" target="_blank">ALaSca: an Automated approach for Large-Scale Lexical Substitution</a>.
+- **Caterina Lacerra**, Tommaso Pasini, Rocco Tripodi and Roberto Navigli. <a href="https://www.diag.uniroma1.it/navigli/pubs/IJCAI_2021_Lacerraetal.pdf" target="_blank">ALaSca: an Automated approach for Large-Scale Lexical Substitution</a>.
   
 <a href="https://github.com/caterinaLacerra/caterinaLacerra.github.io/raw/master/docs/ALaSca%20-%20poster%20(1).pdf" target="_blank">Poster</a>
 <a href="https://sapienzanlp.github.io/alasca/" target="_blank">Website</a>
