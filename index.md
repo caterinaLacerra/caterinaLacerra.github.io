@@ -1,6 +1,6 @@
 PhD student in Natural Language Processing at <a href="http://sapienzanlp.uniroma1.it/" target="_blank">SapienzaNLP</a> group. The research group, based in <a href="https://www.uniroma1.it/en/pagina-strutturale/home" target="_blank">Sapienza, University of Rome</a>, is led by <a href="https://www.diag.uniroma1.it/navigli/" target="_blank">Roberto Navigli</a>.
 
-I recievied an educational background mainly in the engineering field: my bachelor was in Automation Engineering, and the Master was in Artificial Intelligence and Robotics. My research is mainly focused in lexical semantics, in particular *word sense disambiguation* and *lexical substitution*.
+I received an educational background mainly in the engineering field: my bachelor was in Automation Engineering, and the Master was in Artificial Intelligence and Robotics. My current PhD research is focused on lexical semantics and, in particular, *word sense disambiguation* and *lexical substitution*.
 
 ### Publications
 
