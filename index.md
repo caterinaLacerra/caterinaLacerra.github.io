@@ -4,7 +4,7 @@ I received an educational background mainly in the engineering field: my bachelo
 
 ### Publications
 
-Caterina Lacerra, Rocco Tripodi and Roberto Navigli.
+**Caterina Lacerra**, Rocco Tripodi and Roberto Navigli.
 <a href="https://aclanthology.org/2021.emnlp-main.844.pdf" target="_blank">GeneSis: a Generative Approach for Substitutes in Context</a>.
 
 ```
@@ -21,11 +21,10 @@ Caterina Lacerra, Rocco Tripodi and Roberto Navigli.
 <a href="https://github.com/SapienzaNLP/genesis" target="_blank">Code</a>
 
 
-Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.  
+**Caterina Lacerra**, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.  
 <a href="https://www.diag.uniroma1.it/navigli/pubs/IJCAI_2021_Lacerraetal.pdf" target="_blank">ALaSca: an Automated approach for Large-Scale Lexical Substitution</a>.
   
 <a href="https://github.com/caterinaLacerra/caterinaLacerra.github.io/raw/master/docs/ALaSca%20-%20poster%20(1).pdf" target="_blank">Poster</a>
-
 <a href="https://sapienzanlp.github.io/alasca/" target="_blank">Website</a>
 
 ```
@@ -40,7 +39,7 @@ Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.
 ```
 
 
-- Edoardo Barba, Luigi Procopio, Caterina Lacerra, Tommaso Pasini and Roberto Navigli. <a href="https://www.diag.uniroma1.it/navigli/pubs/IJCAI_2021_Barbaetal.pdf" target="_blank">Exemplification Modeling: Can You Give Me an Example, Please?</a>
+- Edoardo Barba, Luigi Procopio, **Caterina Lacerra**, Tommaso Pasini and Roberto Navigli. <a href="https://www.diag.uniroma1.it/navigli/pubs/IJCAI_2021_Barbaetal.pdf" target="_blank">Exemplification Modeling: Can You Give Me an Example, Please?</a>
 
 
 ```
@@ -53,7 +52,7 @@ Caterina Lacerra, Tommaso Pasini, Rocco Tripodi and Roberto Navigli.
 }
 ```
 
-- Caterina Lacerra, Michele Bevilacqua, Tommaso Pasini and Roberto Navigli. <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" target="_blank">CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>.
+- **Caterina Lacerra**, Michele Bevilacqua, Tommaso Pasini and Roberto Navigli. <a href="https://pasinit.github.io/papers/lacerra_etal_aaai2020.pdf" target="_blank">CSI: A Coarse Sense Inventory for 85% Word Sense Disambiguation</a>.
 
 ```
 @inproceedings{lacerraetal:2020,
